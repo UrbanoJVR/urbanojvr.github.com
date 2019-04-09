@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ac08e0a5-d9f5-4529-870b-8b9eff6b1ec3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="1860" column="38" lean-forward="true" selection-start-line="1860" selection-start-column="38" selection-end-line="1860" selection-end-column="38" />
+            <state relative-caret-position="552">
+              <caret line="235" column="30" lean-forward="true" selection-start-line="235" selection-start-column="30" selection-end-line="235" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -41,7 +32,12 @@
       <find>div</find>
       <find>large</find>
       <find>.large</find>
+      <find>button</find>
+      <find>is-preload</find>
+      <find>50%</find>
+      <find>before</find>
       <find>input</find>
+      <find>wrapper:before</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -50,16 +46,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-390" />
     <option name="y" value="-1418" />
     <option name="width" value="2560" />
-    <option name="height" value="1418" />
+    <option name="height" value="1338" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -106,7 +102,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554831832820" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554835295298" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -139,15 +135,15 @@
       <workItem from="1554495865027" duration="160000" />
       <workItem from="1554514398833" duration="1320000" />
       <workItem from="1554712044619" duration="3000" />
-      <workItem from="1554827713318" duration="3901000" />
+      <workItem from="1554827713318" duration="6738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13834000" />
+    <option name="totallyTimeSpent" value="16671000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-390" y="-1418" width="2560" height="1418" extended-state="6" />
+    <frame x="-390" y="-1418" width="2560" height="1338" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1731533" />
@@ -230,17 +226,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+        <state relative-caret-position="2229">
+          <caret line="3765" column="34" selection-start-line="3765" selection-start-column="20" selection-end-line="3765" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="1860" column="38" lean-forward="true" selection-start-line="1860" selection-start-column="38" selection-end-line="1860" selection-end-column="38" />
+        <state relative-caret-position="552">
+          <caret line="235" column="30" lean-forward="true" selection-start-line="235" selection-start-column="30" selection-end-line="235" selection-end-column="30" />
         </state>
       </provider>
     </entry>

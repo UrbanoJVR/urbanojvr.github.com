@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+            <state relative-caret-position="811">
+              <caret line="304" column="57" lean-forward="true" selection-start-line="304" selection-start-column="57" selection-end-line="304" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -43,17 +43,17 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-390" />
-    <option name="y" value="22" />
+    <option name="y" value="-1418" />
     <option name="width" value="2560" />
-    <option name="height" value="948" />
+    <option name="height" value="1418" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,18 +123,20 @@
       <workItem from="1554472575653" duration="512000" />
       <workItem from="1554479294640" duration="6421000" />
       <workItem from="1554495865027" duration="160000" />
-      <workItem from="1554514398833" duration="1163000" />
+      <workItem from="1554514398833" duration="1320000" />
+      <workItem from="1554712044619" duration="3000" />
+      <workItem from="1554827713318" duration="2750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9773000" />
+    <option name="totallyTimeSpent" value="12683000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="948" extended-state="6" />
+    <frame x="-390" y="-1418" width="2560" height="1418" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26007327" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1731533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -222,8 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        <state relative-caret-position="811">
+          <caret line="304" column="57" lean-forward="true" selection-start-line="304" selection-start-column="57" selection-end-line="304" selection-end-column="57" />
         </state>
       </provider>
     </entry>
